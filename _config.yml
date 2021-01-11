@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your name
+name: Andrija Petrovic
 
 # Short bio or description (displayed in the header)
-description: Describe yourself
+description: Ph.D. candidate, Stony Brook University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://res.cloudinary.com/dvesv5z86/image/upload/v1521075397/avatars-2029582_1280.png
+avatar: https://linguistics.stonybrook.edu/commcms/linguistics/_images/people/students/Andrija_Petrovic.jpg
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: https://res.cloudinary.com/dvesv5z86/image/upload/v1521075397/avatars-20
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: andrija.petrovic@stonybrook.edu
   facebook:
   flickr:
-  github: 
+  github: andrija-petrovic
   instagram:
   linkedin:
   pinterest:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: andrija-petrovic.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
