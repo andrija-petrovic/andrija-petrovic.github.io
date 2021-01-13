@@ -43,8 +43,9 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 - Summer 2019: _SLAV-S511 Intensive Elementary Bosnian/Croatian/Serbian I_ & _SLAV-S512 Intensive Elementary Bosnian/Croatian/Serbian II_, Indiana University
 
 **Teaching assistant**
+- Winter 2021: _The Afterlife of a Socialist Military_, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>, held online (Instructor: <a href="https://ikss.zrc-sazu.si/en/sodelavci/tanja-petrovic-en#v">Tanja Petrović</a>)
 - Fall 2020: _LIN 356 Language and Life in Eastern Europe_, Stony Brook University (Instructor: <a href="https://linguistics.stonybrook.edu/faculty/john.bailyn/">John Bailyn</a>)
-- Summer 2020: _Words and other things: what do you need to list in your head?_, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a> (held online) (Instructors: <a href="https://asiapietraszko.com">Asia Pietraszko</a>, <a href="https://omer.lingsite.org">Omer Preminger</a>)
+- Summer 2020: _Words and other things: what do you need to list in your head?_, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>, held online (Instructors: <a href="https://asiapietraszko.com">Asia Pietraszko</a>, <a href="https://omer.lingsite.org">Omer Preminger</a>)
 - Spring 2020: _LIN 431 Structure of an Uncommonly Taught Language_, Stony Brook University (Instructor: <a href="https://linguistics.stonybrook.edu/faculty/daniel.finer/">Daniel Finer</a>)
 - Spring 2019: _LIN 200 Language in the U.S._, Stony Brook University (Instructor: <a href="https://paolacepeda.com">Paola Cépeda</a>)
 - Spring--Fall 2018: _LIN 201 Phonetics_, Stony Brook University (Instructor: <a href="https://linguistics.stonybrook.edu/faculty/marie.huffman/">Marie Huffman</a>)
