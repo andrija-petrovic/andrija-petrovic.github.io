@@ -20,7 +20,7 @@ My primary research interests lie in morphology and its interfaces with phonolog
 * characterization of morphological processes as logical transductions 
 * morphophonological vowel fronting in Serbo-Croatian
 
-I am also a part of the <a href="andrija-petrovic.github.io/images/Screen Shot 2020-11-11 at 7.52.48 PM.png">Epenthesis research group</a> led by <a href="https://linguistics.stonybrook.edu/faculty/lori.repetti/">Lori Repetti</a>.
+I am also a part of the <a href="andrija-petrovic.github.io/images/TeamEpenthesis.png">Epenthesis research group</a> led by <a href="https://linguistics.stonybrook.edu/faculty/lori.repetti/">Lori Repetti</a>.
 
 In addition, I have worked on the stress system of Kuikuro (Cariban) with <a href="https://becker.phonologist.org">Michael Becker</a>.
 
