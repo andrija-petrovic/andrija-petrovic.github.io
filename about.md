@@ -16,9 +16,9 @@ I am a Ph.D. candidate in the <a href="https://linguistics.stonybrook.edu/">Ston
 
 My primary research interests lie in morphology and its interfaces with phonology and syntax. More specifically,
 
-*morphologically conditioned consonant epenthesis 
-*characterization of morphological processes as logical transductions 
-*morphophonological vowel fronting in Serbo-Croatian
+* morphologically conditioned consonant epenthesis 
+* characterization of morphological processes as logical transductions 
+* morphophonological vowel fronting in Serbo-Croatian
 
 I am also a part of the Epenthesis research group led by <a href="https://linguistics.stonybrook.edu/faculty/lori.repetti/">Lori Repetti</a>.
 
