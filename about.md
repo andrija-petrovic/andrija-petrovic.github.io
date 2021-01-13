@@ -32,7 +32,7 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 
 **Vowel fronting in Serbo-Croatian nominal inflection** (advised by Michael Becker)
 
-**The incoherent stress of Kuikuro.** With Michael Becker (University of Massachusetts Amherst), Bruna Franchetto (Federal University of Rio de Janeiro & CNPq), Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro (University of Campinas).
+**The incoherent stress of Kuikuro.** With Michael Becker, <a href="http://www.ppgasmn-ufrj.com/bruna-franchetto.html">Bruna Franchetto</a>, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro.
 
 ----
 
