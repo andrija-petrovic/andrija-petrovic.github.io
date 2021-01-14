@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-<strong>Email:</strong> andrija [dot] petrovic [at-sign] stonybrook [dot] edu <!--(<em>contact for full CV</em>)-->
+<strong>Email:</strong> andrija [dot] petrovic [at] stonybrook [dot] edu <!--(<em>contact for full CV</em>)-->
 
 <strong>Office:</strong> N220, Social and Behavioral Sciences (SBS)
 
