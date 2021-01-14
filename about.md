@@ -34,7 +34,7 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 
 **Vowel fronting in Serbo-Croatian nominal inflection** (advised by Michael Becker) pdf
 
-**The incoherent stress of Kuikuro.** With Michael Becker, <a href="http://www.ppgasmn-ufrj.com/bruna-franchetto.html">Bruna Franchetto</a>, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://drive.google.com/file/d/1xOnlsIAmJz-0_IuCiiza97r32PRVvct8/view">abstract</a>, handout
+**The incoherent stress of Kuikuro.** With Michael Becker, <a href="http://www.ppgasmn-ufrj.com/bruna-franchetto.html">Bruna Franchetto</a>, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://drive.google.com/file/d/1xOnlsIAmJz-0_IuCiiza97r32PRVvct8/view">abstract</a>, <a href="https://drive.google.com/file/d/1PKBB_QQFBxjaz0-K0JCrWVbd4JftHgrw/view?usp=sharing">handout</a> 
 
 ----
 
@@ -42,7 +42,9 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 
 **Primary instructor**
 - Fall 2019: _LIN 522 Graduate Phonetics_, Stony Brook University
-- Summer 2019: _SLAV-S511 Intensive Elementary Bosnian/Croatian/Serbian I_ and _SLAV-S512 Intensive Elementary Bosnian/Croatian/Serbian II_, Indiana University
+- Summer 2019:
+-- _SLAV-S511 Intensive Elementary Bosnian/Croatian/Serbian I_, Indiana University
+-- _SLAV-S512 Intensive Elementary Bosnian/Croatian/Serbian II_, Indiana University
 
 **Teaching assistant**
 - Winter 2021: _The Afterlife of a Socialist Military_, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>, held online (Instructor: <a href="https://ikss.zrc-sazu.si/en/sodelavci/tanja-petrovic-en#v">Tanja Petrović</a>)
@@ -52,6 +54,19 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 - Spring 2019: _LIN 200 Language in the U.S._, Stony Brook University (Instructor: <a href="https://paolacepeda.com">Paola Cépeda</a>)
 - Spring--Fall 2018: _LIN 201 Phonetics_, Stony Brook University (Instructor: <a href="https://linguistics.stonybrook.edu/faculty/marie.huffman/">Marie Huffman</a>)
 - Fall 2017: _LIN 355 Language and Life in Brazil_, Stony Brook University (Instructor: Michael Becker)
+
+----
+
+### Professional services
+
+2020:
+- Reviewer for _The Linguistic Review (TLR)_
+- SBU <a href="https://linguistics.stonybrook.edu/graduate/index.php">Department of Linguistics Graduate programs recruitment video</a>
+- SBU Department of Linguistics Graduate student representative
+
+2019:
+- <a href="https://www.stonybrook.edu/commcms/fellowships/featured-awards/fulbright/">SBU Fulbright Campus Committee member</a>.
+- <a href="https://grad.stonybrook.edu/professional-development/sbu3mt/3mt-2019">SBU Three Minute Thesis competition</a>, moderator.
 
 ----
 
