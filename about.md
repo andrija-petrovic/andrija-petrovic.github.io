@@ -70,6 +70,12 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 
 ----
 
+### Membership
+
+- Slavic Linguistics Society; <a href="https://www.slaviclinguistics.org/charles-e-townsend-memorial-fund">Charles E. Townsend Award</a>
+
+----
+
 ### Fieldwork experience
 
 - Fieldwork on Istro-Romanian, Istria, Croatia. With <a href="https://www.rose.uzh.ch/de/seminar/wersindwir/mitarbeitende/loporcaro.html">Michele Loporcaro</a> and <a href="https://francescogardani.wordpress.com">Francesco Gardani</a>.
