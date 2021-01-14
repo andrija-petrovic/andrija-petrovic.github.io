@@ -29,10 +29,12 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 ### Research
 
 **Morphological epenthesis in Serbo-Croatian neuter nouns** (co-advised by <a href="https://linguistics.stonybrook.edu/faculty/mark.aronoff/">Mark Aronoff</a> and <a href="http://jeffreyheinz.net">Jeff Heinz</a>)
+- characterized as logical transductions on strings: pdf
+- analyzed with PFM: <a href="https://www.uni-goettingen.de/de/document/download/25678a0d33e7f08d437152b6a81baef8.pdf/Petrovic.pdf">abstract</a> | slides
 
-**Vowel fronting in Serbo-Croatian nominal inflection** (advised by Michael Becker)
+**Vowel fronting in Serbo-Croatian nominal inflection** (advised by Michael Becker) pdf
 
-**The incoherent stress of Kuikuro.** With Michael Becker, <a href="http://www.ppgasmn-ufrj.com/bruna-franchetto.html">Bruna Franchetto</a>, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro.
+**The incoherent stress of Kuikuro.** With Michael Becker, <a href="http://www.ppgasmn-ufrj.com/bruna-franchetto.html">Bruna Franchetto</a>, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://drive.google.com/file/d/1xOnlsIAmJz-0_IuCiiza97r32PRVvct8/view">abstract</a> | handout
 
 ----
 
