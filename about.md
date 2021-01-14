@@ -65,8 +65,8 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 - SBU Department of Linguistics Graduate student representative
 
 2019:
-- <a href="https://www.stonybrook.edu/commcms/fellowships/featured-awards/fulbright/">SBU Fulbright Campus Committee</a> member.
-- <a href="https://grad.stonybrook.edu/professional-development/sbu3mt/3mt-2019">SBU Three Minute Thesis competition</a>, moderator.
+- <a href="https://www.stonybrook.edu/commcms/fellowships/featured-awards/fulbright/">SBU Fulbright Campus Committee</a> member
+- <a href="https://grad.stonybrook.edu/professional-development/sbu3mt/3mt-2019">SBU Three Minute Thesis competition</a>, moderator
 
 ----
 
@@ -78,4 +78,4 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 
 ### Fieldwork experience
 
-- Fieldwork on Istro-Romanian, Istria, Croatia. With <a href="https://www.rose.uzh.ch/de/seminar/wersindwir/mitarbeitende/loporcaro.html">Michele Loporcaro</a> and <a href="https://francescogardani.wordpress.com">Francesco Gardani</a>.
+- Fieldwork on Istro-Romanian, Istria, Croatia. With <a href="https://www.rose.uzh.ch/de/seminar/wersindwir/mitarbeitende/loporcaro.html">Michele Loporcaro</a> and <a href="https://francescogardani.wordpress.com">Francesco Gardani</a>
