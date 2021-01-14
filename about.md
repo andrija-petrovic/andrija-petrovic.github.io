@@ -65,7 +65,7 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 - SBU Department of Linguistics Graduate student representative
 
 2019:
-- <a href="https://www.stonybrook.edu/commcms/fellowships/featured-awards/fulbright/">SBU Fulbright Campus Committee member</a>.
+- <a href="https://www.stonybrook.edu/commcms/fellowships/featured-awards/fulbright/">SBU Fulbright Campus Committee</a> member.
 - <a href="https://grad.stonybrook.edu/professional-development/sbu3mt/3mt-2019">SBU Three Minute Thesis competition</a>, moderator.
 
 ----
