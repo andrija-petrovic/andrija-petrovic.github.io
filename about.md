@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-<strong>Email:</strong> andrija.petrovic [at-sign] stonybrook.edu <!--(<em>contact for full CV</em>)-->
+<strong>Email:</strong> andrija [dot] petrovic [at-sign] stonybrook [dot] edu <!--(<em>contact for full CV</em>)-->
 
 <strong>Office:</strong> N220, Social and Behavioral Sciences (SBS)
 
@@ -50,3 +50,9 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 - Spring 2019: _LIN 200 Language in the U.S._, Stony Brook University (Instructor: <a href="https://paolacepeda.com">Paola Cépeda</a>)
 - Spring--Fall 2018: _LIN 201 Phonetics_, Stony Brook University (Instructor: <a href="https://linguistics.stonybrook.edu/faculty/marie.huffman/">Marie Huffman</a>)
 - Fall 2017: _LIN 355 Language and Life in Brazil_, Stony Brook University (Instructor: Michael Becker)
+
+----
+
+### Fieldwork experience
+
+- Fieldwork on Istro-Romanian, Istria, Croatia. With <a href="https://www.rose.uzh.ch/de/seminar/wersindwir/mitarbeitende/loporcaro.html">Michele Loporcaro</a> and <a href="https://francescogardani.wordpress.com">Francesco Gardani</a>.
