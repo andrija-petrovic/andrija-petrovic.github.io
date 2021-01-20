@@ -43,8 +43,8 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 **Primary instructor**
 - Fall 2019: _LIN 522 Graduate Phonetics_, Stony Brook University
 - Summer 2019:
--- _SLAV-S511 Intensive Elementary Bosnian/Croatian/Serbian I_, Indiana University
--- _SLAV-S512 Intensive Elementary Bosnian/Croatian/Serbian II_, Indiana University
+  - _SLAV-S511 Intensive Elementary Bosnian/Croatian/Serbian I_, Indiana University
+  - _SLAV-S512 Intensive Elementary Bosnian/Croatian/Serbian II_, Indiana University
 
 **Teaching assistant**
 - Winter 2021: _The Afterlife of a Socialist Military_, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>, held online (Instructor: <a href="https://ikss.zrc-sazu.si/en/sodelavci/tanja-petrovic-en#v">Tanja Petrović</a>)
@@ -58,6 +58,9 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 ----
 
 ### Professional services
+
+2021:
+- <a href="https://www.stonybrook.edu/commcms/linguistics/news/2020/2020_12_29_naclo.php?fbclid=IwAR3hOO4_FS0m-R8pWLkCNrmX19yMeEvkTtyRN77yPHhwizWaGbjXbM_IJsM">North American Computational Linguistics Open (NACLO) practice session</a>, Stony Brook University.
 
 2020:
 - Reviewer for _The Linguistic Review (TLR)_
