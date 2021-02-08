@@ -47,7 +47,7 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
   - _SLAV-S512 Intensive Elementary Bosnian/Croatian/Serbian II_, Indiana University
 
 **Teaching assistant**
-- Spring 2021: _The Anatomy of English Words_, Stony Brook University (Instructor: <a href="https://linguistics.stonybrook.edu/faculty/john.bailyn/">John Bailyn</a>)
+- Spring 2021: _LIN 110 The Anatomy of English Words_, Stony Brook University (Instructor: <a href="https://linguistics.stonybrook.edu/faculty/john.bailyn/">John Bailyn</a>)
 - Winter 2021: _The Afterlife of a Socialist Military_, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>, held online (Instructor: <a href="https://ikss.zrc-sazu.si/en/sodelavci/tanja-petrovic-en#v">Tanja Petrović</a>)
 - Fall 2020: _LIN 356 Language and Life in Eastern Europe_, Stony Brook University (Instructor: John Bailyn)
 - Summer 2020: _Words and other things: what do you need to list in your head?_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructors: <a href="https://asiapietraszko.com">Asia Pietraszko</a>, <a href="https://omer.lingsite.org">Omer Preminger</a>)
