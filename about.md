@@ -28,7 +28,7 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 
 ### Research
 
-**Modeling morphological epenthesis.** <a href="https://spanish.arizona.edu/sites/spanish.arizona.edu/files/Feb2021_DSPLC_Flyer.pdf"Department of Spanish & Portuguese Linguistics Colloquium</a>, February 18, 2021, University of Arizona.
+**Modeling morphological epenthesis.** <a href="https://spanish.arizona.edu/sites/spanish.arizona.edu/files/Feb2021_DSPLC_Flyer.pdf">Department of Spanish & Portuguese Linguistics Colloquium</a>, February 18, 2021, University of Arizona.
 
 **Morphological epenthesis in Serbo-Croatian neuter nouns** (co-advised by <a href="https://linguistics.stonybrook.edu/faculty/mark.aronoff/">Mark Aronoff</a> and <a href="http://jeffreyheinz.net">Jeff Heinz</a>)
 - characterized as logical transductions on strings: pdf
