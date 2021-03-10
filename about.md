@@ -66,7 +66,7 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 - <a href="https://www.stonybrook.edu/commcms/linguistics/news/2020/2020_12_29_naclo.php?fbclid=IwAR3hOO4_FS0m-R8pWLkCNrmX19yMeEvkTtyRN77yPHhwizWaGbjXbM_IJsM">North American Computational Linguistics Open (NACLO) practice session</a>, Stony Brook University.
 
 2020:
-- Reviewer for _The Linguistic Review (TLR)_
+- Reviewer for <a href="https://www.degruyter.com/journal/key/TLIR/html">_The Linguistic Review (TLR)_</a>
 - SBU <a href="https://linguistics.stonybrook.edu/graduate/index.php">Department of Linguistics Graduate programs recruitment video</a>
 - SBU Department of Linguistics Graduate student representative
 
