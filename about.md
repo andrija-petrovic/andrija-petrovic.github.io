@@ -28,10 +28,10 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 
 ### Research
 
-**Modeling morphological epenthesis.** <a href="https://spanish.arizona.edu/sites/spanish.arizona.edu/files/Feb2021_DSPLC_Flyer.pdf">Department of Spanish & Portuguese Linguistics Colloquium</a>, February 18, 2021, University of Arizona.
+**Modeling morphological epenthesis.** <a href="https://spanish.arizona.edu/sites/spanish.arizona.edu/files/Feb2021_DSPLC_Flyer.pdf">Department of Spanish & Portuguese Linguistics Colloquium</a>, February 18, 2021, University of Arizona. <a href="https://github.com/andrija-petrovic/andrija-petrovic.github.io/raw/master/pdfs/Petrovic%20Arizona%20DSP%20slides.pdf">slides</a>
 
 **Morphological epenthesis in Serbo-Croatian neuter nouns** (co-advised by <a href="https://linguistics.stonybrook.edu/faculty/mark.aronoff/">Mark Aronoff</a> and <a href="http://jeffreyheinz.net">Jeff Heinz</a>)
-- characterized as logical transductions on strings: pdf
+- characterized as logical transductions on strings: <a href="https://github.com/andrija-petrovic/andrija-petrovic.github.io/raw/master/pdfs/mlrg%20andrija%20slides%2003-02-2021.pdf">slides</a>
 - analyzed with PFM: <a href="https://www.uni-goettingen.de/de/document/download/25678a0d33e7f08d437152b6a81baef8.pdf/Petrovic.pdf">abstract</a>, slides
 
 **Vowel fronting in Serbo-Croatian nominal inflection** (advised by Michael Becker) pdf
