@@ -34,7 +34,7 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 - characterized as logical transductions on strings: <a href="https://github.com/andrija-petrovic/andrija-petrovic.github.io/raw/master/pdfs/mlrg%20andrija%20slides%2003-02-2021.pdf">slides</a>
 - analyzed with PFM: <a href="https://www.uni-goettingen.de/de/document/download/25678a0d33e7f08d437152b6a81baef8.pdf/Petrovic.pdf">abstract</a>, <a href="https://github.com/andrija-petrovic/andrija-petrovic.github.io/raw/master/pdfs/FDSL%20pres%2012-07-18.pdf">slides</a>
 
-**Vowel fronting in Serbo-Croatian nominal inflection** (advised by Michael Becker) pdf
+**Vowel fronting in Serbo-Croatian nominal inflection** (advised by Michael Becker) <a href="https://drive.google.com/file/d/1W1l0V0k35Jm8WYm2IFsWzuFKb1IfBfxy/view?usp=sharing">abstract</a>
 
 **The incoherent stress of Kuikuro.** With Michael Becker, <a href="http://www.ppgasmn-ufrj.com/bruna-franchetto.html">Bruna Franchetto</a>, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://drive.google.com/file/d/1xOnlsIAmJz-0_IuCiiza97r32PRVvct8/view">abstract</a>, <a href="https://drive.google.com/file/d/1PKBB_QQFBxjaz0-K0JCrWVbd4JftHgrw/view?usp=sharing">handout</a> 
 
