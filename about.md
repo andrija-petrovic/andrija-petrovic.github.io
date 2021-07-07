@@ -20,9 +20,9 @@ My primary research interests lie in morphology and its interfaces with phonolog
 * characterization of morphological processes as logical transductions 
 * morphophonological vowel fronting in Serbo-Croatian
 
-I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petrovic/andrija-petrovic.github.io/master/images/TeamEpenthesis.png">Epenthesis research group</a> led by <a href="https://linguistics.stonybrook.edu/faculty/lori.repetti/">Lori Repetti</a>. We are organizing a <a href="https://www.stonybrook.edu/epenthesis/">workshop on epenthesis (and beyond)</a> in September 2021 -- program coming soon!
-
 I am an editor of <a href="https://benjamins.com/catalog/cilt.353">_All Things Morphology: Its independence and its interfaces_</a>, with <a href="https://somoradi.github.io">Sedigheh Moradi</a>, <a href="https://www.ou.edu/cas/modlang/people/linguistics/m-haag">Marcia Haag</a>, and <a href="https://www.researchgate.net/profile/Janie-Rees-Miller">Janie Rees-Miller</a>. The volume is dedicated to <a href="https://linguistics.stonybrook.edu/faculty/mark.aronoff/">Mark Aronoff</a>; it is expected to come out in September 2021.
+
+I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petrovic/andrija-petrovic.github.io/master/images/TeamEpenthesis.png">Epenthesis research group</a> led by <a href="https://linguistics.stonybrook.edu/faculty/lori.repetti/">Lori Repetti</a>. We are organizing a <a href="https://www.stonybrook.edu/epenthesis/">workshop on epenthesis (and beyond)</a> in September 2021 -- program coming soon!
 
 In addition, I have worked on the stress system of Kuikuro (Cariban) with <a href="https://becker.phonologist.org">Michael Becker</a>.
 
