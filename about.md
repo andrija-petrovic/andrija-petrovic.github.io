@@ -20,7 +20,9 @@ My primary research interests lie in morphology and its interfaces with phonolog
 * characterization of morphological processes as logical transductions 
 * morphophonological vowel fronting in Serbo-Croatian
 
-I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petrovic/andrija-petrovic.github.io/master/images/TeamEpenthesis.png">Epenthesis research group</a> led by <a href="https://linguistics.stonybrook.edu/faculty/lori.repetti/">Lori Repetti</a>.
+I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petrovic/andrija-petrovic.github.io/master/images/TeamEpenthesis.png">Epenthesis research group</a> led by <a href="https://linguistics.stonybrook.edu/faculty/lori.repetti/">Lori Repetti</a>. We are organizing a <a href="https://www.stonybrook.edu/epenthesis/">workshop on epenthesis (and beyond)</a> in September 2021 -- program coming soon!
+
+I am an editor of <a href="https://benjamins.com/catalog/cilt.353">_All Things Morphology: Its independence and its interfaces_</a>, with <a href="https://somoradi.github.io">Sedigheh Moradi</a>, <a href="https://www.ou.edu/cas/modlang/people/linguistics/m-haag">Marcia Haag</a>, and <a href="https://www.researchgate.net/profile/Janie-Rees-Miller">Janie Rees-Miller</a>. The volume is dedicated to <a href="https://linguistics.stonybrook.edu/faculty/mark.aronoff/">Mark Aronoff</a>; it is expected to come out in September 2021.
 
 In addition, I have worked on the stress system of Kuikuro (Cariban) with <a href="https://becker.phonologist.org">Michael Becker</a>.
 
@@ -30,7 +32,7 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 
 **Modeling morphological epenthesis.** <a href="https://spanish.arizona.edu/sites/spanish.arizona.edu/files/Feb2021_DSPLC_Flyer.pdf">Department of Spanish & Portuguese Linguistics Colloquium</a>, February 18, 2021, University of Arizona. <a href="https://github.com/andrija-petrovic/andrija-petrovic.github.io/raw/master/pdfs/Petrovic%20Arizona%20DSP%20slides.pdf">slides</a>
 
-**Morphological epenthesis in Serbo-Croatian neuter nouns** (co-advised by <a href="https://linguistics.stonybrook.edu/faculty/mark.aronoff/">Mark Aronoff</a> and <a href="http://jeffreyheinz.net">Jeff Heinz</a>)
+**Morphological epenthesis in Serbo-Croatian neuter nouns** (co-advised by Mark Aronoff and <a href="http://jeffreyheinz.net">Jeff Heinz</a>)
 - characterized as logical transductions on strings: <a href="https://github.com/andrija-petrovic/andrija-petrovic.github.io/raw/master/pdfs/mlrg%20andrija%20slides%2003-02-2021.pdf">slides</a>
 - analyzed with PFM: <a href="https://www.uni-goettingen.de/de/document/download/25678a0d33e7f08d437152b6a81baef8.pdf/Petrovic.pdf">abstract</a>, <a href="https://github.com/andrija-petrovic/andrija-petrovic.github.io/raw/master/pdfs/FDSL%20pres%2012-07-18.pdf">slides</a>
 
@@ -43,14 +45,19 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 ### Teaching
 
 **Primary instructor**
+- Fall 2021: _LIN 530 Introduction to General Linguistics_, Stony Brook University
+- Summer 2021: _LIN 110 The Anatomy of English Words_, Stony Brook University
 - Fall 2019: _LIN 522 Graduate Phonetics_, Stony Brook University
 - Summer 2019:
   - _SLAV-S511 Intensive Elementary Bosnian/Croatian/Serbian I_, Indiana University
   - _SLAV-S512 Intensive Elementary Bosnian/Croatian/Serbian II_, Indiana University
 
 **Teaching assistant**
+- Summer 2021:
+  - _Infixation: Typology and Theory_, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>, held online (Instructor: <a href="https://www.laurakalin.com">Laura Kalin</a>)
+  - _What's a problem in phonology?_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://noamfaust.wordpress.com">Noam Faust</a>)
 - Spring 2021: _LIN 110 The Anatomy of English Words_, Stony Brook University (Instructor: <a href="https://linguistics.stonybrook.edu/faculty/john.bailyn/">John Bailyn</a>)
-- Winter 2021: _The Afterlife of a Socialist Military_, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>, held online (Instructor: <a href="https://ikss.zrc-sazu.si/en/sodelavci/tanja-petrovic-en#v">Tanja Petrović</a>)
+- Winter 2021: _The Afterlife of a Socialist Military_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://ikss.zrc-sazu.si/en/sodelavci/tanja-petrovic-en#v">Tanja Petrović</a>)
 - Fall 2020: _LIN 356 Language and Life in Eastern Europe_, Stony Brook University (Instructor: John Bailyn)
 - Summer 2020: _Words and other things: what do you need to list in your head?_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructors: <a href="https://asiapietraszko.com">Asia Pietraszko</a>, <a href="https://omer.lingsite.org">Omer Preminger</a>)
 - Spring 2020: _LIN 431 Structure of an Uncommonly Taught Language_, Stony Brook University (Instructor: <a href="https://linguistics.stonybrook.edu/faculty/daniel.finer/">Daniel Finer</a>)
@@ -63,7 +70,8 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 ### Professional services
 
 2021:
-- <a href="https://www.stonybrook.edu/commcms/linguistics/news/2020/2020_12_29_naclo.php?fbclid=IwAR3hOO4_FS0m-R8pWLkCNrmX19yMeEvkTtyRN77yPHhwizWaGbjXbM_IJsM">North American Computational Linguistics Open (NACLO) practice session</a>, Stony Brook University.
+- <a href="https://calendar.stonybrook.edu/site/iacs/event/summer-youth-camp-for-computational-linguistics-syccl-1/">Summer Youth Camp in Computational Linguistics (SYCCL)</a> assistant instructor, <a href="https://iacs.stonybrook.edu">Institute for Advanced Computational Science (IACS)</a>, Stony Brook University.
+- <a href="https://www.stonybrook.edu/commcms/linguistics/news/2020/2020_12_29_naclo.php?fbclid=IwAR3hOO4_FS0m-R8pWLkCNrmX19yMeEvkTtyRN77yPHhwizWaGbjXbM_IJsM">North American Computational Linguistics Open (NACLO) practice session</a>, Institute for Advanced Computational Science (IACS), Stony Brook University.
 
 2020:
 - Reviewer for <a href="https://www.degruyter.com/journal/key/TLIR/html">_The Linguistic Review (TLR)_</a>
