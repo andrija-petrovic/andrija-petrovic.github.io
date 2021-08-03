@@ -92,6 +92,6 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 
 ### Projects
 
-- <a href="https://docs.google.com/presentation/d/1zgAJASr8-DsS_hyTPig3vgFj8kw_HiXVHrcQ--M8_1o/edit?usp=sharing">_What's in a Song? A music genre classification project_</a>. <a href="https://www.erdosinstitute.org/may2021certificates/andrija-petrovic">The Erdős Institute Data Science Bootcamp</a>, May 2021
+- <a href="https://docs.google.com/presentation/d/1zgAJASr8-DsS_hyTPig3vgFj8kw_HiXVHrcQ--M8_1o/edit?usp=sharing">_What's in a Song? A music genre classification project_</a>, with <a href="https://astronomy.osu.edu/people/bose.48">Subhash Bose</a> and <a href="https://math.osu.edu/people/hales.41">Jonathon Hales</a>. <a href="https://www.erdosinstitute.org/may2021certificates/andrija-petrovic">The Erdős Institute Data Science Bootcamp</a>, May 2021
 - _Where do they belong: Serbo‐Croatian noun stems need leading forms_. A Python/Pynini implementation of the inflectional class assignment process of lexical entries in Serbo‐Croatian
 - Fieldwork on Istro-Romanian, Istria, Croatia. With <a href="https://www.rose.uzh.ch/de/seminar/wersindwir/mitarbeitende/loporcaro.html">Michele Loporcaro</a> and <a href="https://francescogardani.wordpress.com">Francesco Gardani</a>
