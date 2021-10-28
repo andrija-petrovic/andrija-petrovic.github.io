@@ -16,7 +16,7 @@ I am a Ph.D. candidate in the <a href="https://linguistics.stonybrook.edu/">Ston
 
 My primary research interests lie in morphology and its interfaces with phonology and syntax. More specifically,
 
-* morphologically conditioned consonant epenthesis 
+* morphologically conditioned segment insertion 
 * characterization of morphological processes as logical transductions 
 * morphophonological vowel fronting in Serbo-Croatian
 
