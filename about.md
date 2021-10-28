@@ -32,7 +32,7 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 
 **Modeling morphological epenthesis.** <a href="https://drive.google.com/file/d/1w5f_bgQesLDmIXQSzOwfB9t9z9GT7DsP/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1Jr-pNyWNG992Yml0kUQmkoaC8l8wzIfS/view?usp=sharing">slides</a>
 
-**Morphological epenthesis in Serbo-Croatian neuter nouns** (co-advised by Mark Aronoff and <a href="http://jeffreyheinz.net">Jeff Heinz</a>)
+**Morphological epenthesis in Serbo-Croatian neuter nouns** (co-advised by Mark Aronoff and <a href="http://jeffreyheinz.net">Jeff Heinz</a>):
 - characterized as logical transductions on strings: <a href="https://github.com/andrija-petrovic/andrija-petrovic.github.io/raw/master/pdfs/mlrg%20andrija%20slides%2003-02-2021.pdf">slides</a>. _Manuscript submitted for publication_
 - analyzed with PFM: <a href="https://www.uni-goettingen.de/de/document/download/25678a0d33e7f08d437152b6a81baef8.pdf/Petrovic.pdf">abstract</a>, <a href="https://github.com/andrija-petrovic/andrija-petrovic.github.io/raw/master/pdfs/FDSL%20pres%2012-07-18.pdf">slides</a>
 
