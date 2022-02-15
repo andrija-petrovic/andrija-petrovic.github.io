@@ -64,7 +64,7 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 
 **Teaching assistant**
 - Summer 2022:
-  - _Introduction to Morphology, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>, held online (Instructor: <a href="https://www.gouskova.com">Maria Gouskova</a>)
+  - _Introduction to Morphology_, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>, held online (Instructor: <a href="https://www.gouskova.com">Maria Gouskova</a>)
   - _Universals in Phonology_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://sites.google.com/site/shantijulfsbjorninn/">Shanti Ulfsbjorninn</a>)
 - Summer 2021:
   - _Infixation: Typology and Theory_, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>, held online (Instructor: <a href="https://www.laurakalin.com">Laura Kalin</a>)
