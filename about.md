@@ -33,12 +33,12 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 **Modeling morphological epenthesis.** <a href="https://drive.google.com/file/d/1w5f_bgQesLDmIXQSzOwfB9t9z9GT7DsP/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1Jr-pNyWNG992Yml0kUQmkoaC8l8wzIfS/view?usp=sharing">slides</a>
 
 **Morphological epenthesis in Serbo-Croatian neuter nouns** (co-advised by Mark Aronoff and <a href="http://jeffreyheinz.net">Jeff Heinz</a>):
-- characterized as logical transductions on strings: <a href="https://drive.google.com/file/d/1eFOIYSSiZxBhWwQ0Xb4wv4i40Uen7aSO/view?usp=sharing">slides</a>. _Manuscript submitted for publication_
+- characterized as logical transductions on strings: <a href="https://drive.google.com/file/d/1eFOIYSSiZxBhWwQ0Xb4wv4i40Uen7aSO/view?usp=sharing">slides</a>. _in review_
 - analyzed with PFM: <a href="https://www.uni-goettingen.de/de/document/download/25678a0d33e7f08d437152b6a81baef8.pdf/Petrovic.pdf">abstract</a>, <a href="https://drive.google.com/file/d/106pYNE4oOIuOTqWU0QIHgiwtP5P-wY2k/view?usp=sharing">slides</a>
 
-**Vowel fronting in Serbo-Croatian nominal inflection** (advised by Michael Becker). <a href="https://drive.google.com/file/d/1W1l0V0k35Jm8WYm2IFsWzuFKb1IfBfxy/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1FpqRUWFsejXvaVRHQV21SrSJzdeXt_HD/view?usp=sharing">slides</a>. _Manuscript submitted for publication_
+**Vowel fronting in Serbo-Croatian nominal inflection** (advised by Michael Becker). <a href="https://drive.google.com/file/d/1W1l0V0k35Jm8WYm2IFsWzuFKb1IfBfxy/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1FpqRUWFsejXvaVRHQV21SrSJzdeXt_HD/view?usp=sharing">slides</a>. _in review_
 
-**The incoherent stress of Kuikuro.** With Michael Becker, <a href="http://www.ppgasmn-ufrj.com/bruna-franchetto.html">Bruna Franchetto</a>, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://drive.google.com/file/d/1xOnlsIAmJz-0_IuCiiza97r32PRVvct8/view">abstract</a>, <a href="https://drive.google.com/file/d/1PKBB_QQFBxjaz0-K0JCrWVbd4JftHgrw/view?usp=sharing">handout</a>. _Manuscript submitted for publication_
+**The incoherent stress of Kuikuro.** With Michael Becker, <a href="http://www.ppgasmn-ufrj.com/bruna-franchetto.html">Bruna Franchetto</a>, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://drive.google.com/file/d/1xOnlsIAmJz-0_IuCiiza97r32PRVvct8/view">abstract</a>, <a href="https://drive.google.com/file/d/1PKBB_QQFBxjaz0-K0JCrWVbd4JftHgrw/view?usp=sharing">handout</a>. _in review_
 
 ----
 
@@ -53,6 +53,7 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 ### Teaching
 
 **Primary instructor**
+- Spring 2022: _LIN 110 The Anatomy of English Words_, Stony Brook University
 - Fall 2021: _LIN 530 Introduction to General Linguistics_, Stony Brook University
 - Summer 2021: _LIN 110 The Anatomy of English Words_, Stony Brook University
 - Fall 2019: _LIN 522 Graduate Phonetics_, Stony Brook University
@@ -73,22 +74,20 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 - Spring--Fall 2018: _LIN 201 Phonetics_, Stony Brook University (Instructor: <a href="https://linguistics.stonybrook.edu/faculty/marie.huffman/">Marie Huffman</a>)
 - Fall 2017: _LIN 355 Language and Life in Brazil_, Stony Brook University (Instructor: Michael Becker)
 
+**Other**
+- Winter 2022: <a href="https://calendar.stonybrook.edu/site/iacs/event/naclo-2022/">North American Computational Linguistics Open (NACLO) practice session</a>, Institute for Advanced Computational Science (IACS), Stony Brook University.
+- Summer 2021: <a href="https://calendar.stonybrook.edu/site/iacs/event/summer-youth-camp-for-computational-linguistics-syccl-1/">Summer Youth Camp in Computational Linguistics (SYCCL)</a> assistant instructor, <a href="https://iacs.stonybrook.edu">Institute for Advanced Computational Science (IACS)</a>, Stony Brook University.
+- Winter 2021: <a href="https://www.stonybrook.edu/commcms/linguistics/news/2020/2020_12_29_naclo.php?fbclid=IwAR3hOO4_FS0m-R8pWLkCNrmX19yMeEvkTtyRN77yPHhwizWaGbjXbM_IJsM">North American Computational Linguistics Open (NACLO) practice session</a>, Institute for Advanced Computational Science (IACS), Stony Brook University.
+
 ----
 
 ### Professional services
 
-2021:
-- <a href="https://calendar.stonybrook.edu/site/iacs/event/summer-youth-camp-for-computational-linguistics-syccl-1/">Summer Youth Camp in Computational Linguistics (SYCCL)</a> assistant instructor, <a href="https://iacs.stonybrook.edu">Institute for Advanced Computational Science (IACS)</a>, Stony Brook University.
-- <a href="https://www.stonybrook.edu/commcms/linguistics/news/2020/2020_12_29_naclo.php?fbclid=IwAR3hOO4_FS0m-R8pWLkCNrmX19yMeEvkTtyRN77yPHhwizWaGbjXbM_IJsM">North American Computational Linguistics Open (NACLO) practice session</a>, Institute for Advanced Computational Science (IACS), Stony Brook University.
-
-2020:
-- Reviewer for <a href="https://www.degruyter.com/journal/key/TLIR/html">_The Linguistic Review (TLR)_</a>
+- Reviewer for <a href="https://www.degruyter.com/journal/key/TLIR/html">_The Linguistic Review (TLR)_</a>, <a href="https://www.glossa-journal.org">_Glossa_</a>, <a href="https://fasl30.mit.edu/proc">_FASL 30 Proceedings_</a>
 - SBU <a href="https://linguistics.stonybrook.edu/graduate/index.php">Department of Linguistics Graduate programs recruitment video</a>
-- SBU Department of Linguistics Graduate student representative
-
-2019:
-- <a href="https://www.stonybrook.edu/commcms/fellowships/featured-awards/fulbright/">SBU Fulbright Campus Committee</a> member
-- <a href="https://grad.stonybrook.edu/professional-development/sbu3mt/3mt-2019">SBU Three Minute Thesis competition</a>, moderator
+- SBU Department of Linguistics Graduate student representative (Fall 2020 – Spring 2021)
+- <a href="https://www.stonybrook.edu/commcms/fellowships/featured-awards/fulbright/">SBU Fulbright Campus Committee</a> member (2019)
+- <a href="https://grad.stonybrook.edu/professional-development/sbu3mt/3mt-2019">SBU Three Minute Thesis competition</a>, moderator (2019)
 
 ----
 
