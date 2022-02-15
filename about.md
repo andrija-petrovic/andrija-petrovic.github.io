@@ -54,6 +54,7 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 
 **Primary instructor**
 - Spring 2022: _LIN 110 The Anatomy of English Words_, Stony Brook University
+- Winter 2022: _LIN 200 Language in the U.S._, Stony Brook University (co-taught with <a href="https://snelson89.bitbucket.io">Scott Nelson</a>)
 - Fall 2021: _LIN 530 Introduction to General Linguistics_, Stony Brook University
 - Summer 2021: _LIN 110 The Anatomy of English Words_, Stony Brook University
 - Fall 2019: _LIN 522 Graduate Phonetics_, Stony Brook University
@@ -62,6 +63,9 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
   - _SLAV-S512 Intensive Elementary Bosnian/Croatian/Serbian II_, Indiana University
 
 **Teaching assistant**
+- Summer 2022:
+  - _Introduction to Morphology, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>, held online (Instructor: <a href="https://www.gouskova.com">Maria Gouskova</a>)
+  - _Universals in Phonology_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://sites.google.com/site/shantijulfsbjorninn/">Shanti Ulfsbjorninn</a>)
 - Summer 2021:
   - _Infixation: Typology and Theory_, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>, held online (Instructor: <a href="https://www.laurakalin.com">Laura Kalin</a>)
   - _What's a problem in phonology?_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://noamfaust.wordpress.com">Noam Faust</a>)
@@ -75,8 +79,8 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
 - Fall 2017: _LIN 355 Language and Life in Brazil_, Stony Brook University (Instructor: Michael Becker)
 
 **Other**
-- Winter 2022: <a href="https://calendar.stonybrook.edu/site/iacs/event/naclo-2022/">North American Computational Linguistics Open (NACLO) practice session</a>, Institute for Advanced Computational Science (IACS), Stony Brook University.
-- Summer 2021: <a href="https://calendar.stonybrook.edu/site/iacs/event/summer-youth-camp-for-computational-linguistics-syccl-1/">Summer Youth Camp in Computational Linguistics (SYCCL)</a> assistant instructor, <a href="https://iacs.stonybrook.edu">Institute for Advanced Computational Science (IACS)</a>, Stony Brook University.
+- Winter 2022: <a href="https://calendar.stonybrook.edu/site/iacs/event/naclo-2022/">North American Computational Linguistics Open (NACLO) practice session</a>, <a href="https://iacs.stonybrook.edu">Institute for Advanced Computational Science (IACS)</a>, Stony Brook University.
+- Summer 2021: <a href="https://calendar.stonybrook.edu/site/iacs/event/summer-youth-camp-for-computational-linguistics-syccl-1/">Summer Youth Camp in Computational Linguistics (SYCCL)</a> assistant instructor, Institute for Advanced Computational Science (IACS), Stony Brook University.
 - Winter 2021: <a href="https://www.stonybrook.edu/commcms/linguistics/news/2020/2020_12_29_naclo.php?fbclid=IwAR3hOO4_FS0m-R8pWLkCNrmX19yMeEvkTtyRN77yPHhwizWaGbjXbM_IJsM">North American Computational Linguistics Open (NACLO) practice session</a>, Institute for Advanced Computational Science (IACS), Stony Brook University.
 
 ----
