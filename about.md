@@ -67,7 +67,7 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
   - _Introduction to Morphology_, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>, held online (Instructor: <a href="https://www.gouskova.com">Maria Gouskova</a>)
   - _Universals in Phonology_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://sites.google.com/site/shantijulfsbjorninn/">Shanti Ulfsbjorninn</a>)
 - Summer 2021:
-  - _Infixation: Typology and Theory_, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>, held online (Instructor: <a href="https://www.laurakalin.com">Laura Kalin</a>)
+  - _Infixation: Typology and Theory_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://www.laurakalin.com">Laura Kalin</a>)
   - _What's a problem in phonology?_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://noamfaust.wordpress.com">Noam Faust</a>)
 - Spring 2021: _LIN 110 The Anatomy of English Words_, Stony Brook University (Instructor: <a href="https://linguistics.stonybrook.edu/faculty/john.bailyn/">John Bailyn</a>)
 - Winter 2021: _The Afterlife of a Socialist Military_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://ikss.zrc-sazu.si/en/sodelavci/tanja-petrovic-en#v">Tanja Petrović</a>)
