@@ -22,9 +22,9 @@ My primary research interests lie in morphology and its interfaces with phonolog
 
 I am an editor of <a href="https://benjamins.com/catalog/cilt.353">_All Things Morphology: Its independence and its interfaces_</a>, with <a href="https://somoradi.github.io">Sedigheh Moradi</a>, <a href="https://www.ou.edu/cas/modlang/people/linguistics/m-haag">Marcia Haag</a>, and <a href="https://www.researchgate.net/profile/Janie-Rees-Miller">Janie Rees-Miller</a>. The volume is dedicated to <a href="https://linguistics.stonybrook.edu/faculty/mark.aronoff/">Mark Aronoff</a>.
 
-I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petrovic/andrija-petrovic.github.io/master/images/TeamEpenthesis.png">Epenthesis research group</a> led by <a href="https://linguistics.stonybrook.edu/faculty/lori.repetti/">Lori Repetti</a>. We organized a <a href="https://www.stonybrook.edu/epenthesis/">workshop on epenthesis (and beyond)</a> in September 2021: the program can be found <a href="https://www.stonybrook.edu/commcms/epenthesis/program.php">here</a>.
+I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petrovic/andrija-petrovic.github.io/master/images/TeamEpenthesis.png">Epenthesis research group</a> led by <a href="https://linguistics.stonybrook.edu/faculty/lori.repetti/">Lori Repetti</a>. We organized a <a href="https://www.stonybrook.edu/epenthesis/">workshop on epenthesis (and beyond)</a> in September 2021: the program can be found <a href="https://www.stonybrook.edu/commcms/epenthesis/program.php">here</a>, and we are working on a volume of selected papers. Stay tuned!
 
-In addition, I have worked on the stress system of Kuikuro (Cariban) with <a href="https://becker.phonologist.org">Michael Becker</a>.
+Additionally, I have worked on the stress system of Kuikuro (Cariban) with <a href="https://becker.phonologist.org">Michael Becker</a>.
 
 ----
 
@@ -63,7 +63,7 @@ In addition, I have worked on the stress system of Kuikuro (Cariban) with <a hre
   - _SLAV-S512 Intensive Elementary Bosnian/Croatian/Serbian II_, Indiana University
 
 **Teaching assistant**
-- Summer 2022:
+- Winter 2022:
   - _Introduction to Morphology_, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>, held online (Instructor: <a href="https://www.gouskova.com">Maria Gouskova</a>)
   - _Universals in Phonology_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://sites.google.com/site/shantijulfsbjorninn/">Shanti Ulfsbjorninn</a>)
 - Summer 2021:
