@@ -22,7 +22,7 @@ My primary research interests lie in morphology and its interfaces with phonolog
 
 I am an editor of <a href="https://benjamins.com/catalog/cilt.353">_All Things Morphology: Its independence and its interfaces_</a>, with <a href="https://somoradi.github.io">Sedigheh Moradi</a>, <a href="https://www.ou.edu/cas/modlang/people/linguistics/m-haag">Marcia Haag</a>, and <a href="https://www.researchgate.net/profile/Janie-Rees-Miller">Janie Rees-Miller</a>. The volume is dedicated to <a href="https://linguistics.stonybrook.edu/faculty/mark.aronoff/">Mark Aronoff</a>.
 
-I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petrovic/andrija-petrovic.github.io/master/images/TeamEpenthesis.png">Epenthesis research group</a> led by <a href="https://linguistics.stonybrook.edu/faculty/lori.repetti/">Lori Repetti</a>. We organized a <a href="https://www.stonybrook.edu/epenthesis/">workshop on epenthesis (and beyond)</a> in September 2021: the program can be found <a href="https://www.stonybrook.edu/commcms/epenthesis/program.php">here</a>, and we are working on a volume of selected papers. Stay tuned!
+I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petrovic/andrija-petrovic.github.io/master/images/TeamEpenthesis.png">Epenthesis research group</a> led by <a href="https://linguistics.stonybrook.edu/faculty/lori.repetti/">Lori Repetti</a>. We organized a <a href="https://www.stonybrook.edu/epenthesis/">workshop on epenthesis (and beyond)</a> in September 2021: the program can be found <a href="https://www.stonybrook.edu/commcms/epenthesis/program.php">here</a>, and we are working on a volume of selected papers. More information coming soon!
 
 Additionally, I have worked on the stress system of Kuikuro (Cariban) with <a href="https://becker.phonologist.org">Michael Becker</a>.
 
@@ -46,13 +46,15 @@ Additionally, I have worked on the stress system of Kuikuro (Cariban) with <a hr
 
 - <a href="https://docs.google.com/presentation/d/1zgAJASr8-DsS_hyTPig3vgFj8kw_HiXVHrcQ--M8_1o/edit?usp=sharing">**What's in a Song? A music genre classification project**</a>, with <a href="https://astronomy.osu.edu/people/bose.48">Subhash Bose</a> and <a href="https://math.osu.edu/people/hales.41">Jonathon Hales</a>. <a href="https://www.erdosinstitute.org/may2021certificates/andrija-petrovic">The Erdős Institute Data Science Bootcamp</a>, May 2021
 - **Where do they belong: Serbo‐Croatian noun stems need leading forms**. A Python/Pynini implementation of the inflectional class assignment process of lexical entries in Serbo‐Croatian
-- Fieldwork on Istro-Romanian, Istria, Croatia. With <a href="https://www.rose.uzh.ch/de/seminar/wersindwir/mitarbeitende/loporcaro.html">Michele Loporcaro</a> and <a href="https://francescogardani.wordpress.com">Francesco Gardani</a>
+- Fieldwork on Kuikuro, Brazil. With Michael Becker
+- Fieldwork on Istro-Romanian, Croatia. With <a href="https://www.rose.uzh.ch/de/seminar/wersindwir/mitarbeitende/loporcaro.html">Michele Loporcaro</a> and <a href="https://francescogardani.wordpress.com">Francesco Gardani</a>
 
 ----
 
 ### Teaching
 
 **Primary instructor**
+- Summer 2022: _LIN 110 The Anatomy of English Words_, Stony Brook University
 - Spring 2022: _LIN 110 The Anatomy of English Words_, Stony Brook University
 - Winter 2022: _LIN 200 Language in the U.S._, Stony Brook University (co-taught with <a href="https://snelson89.bitbucket.io">Scott Nelson</a>)
 - Fall 2021: _LIN 530 Introduction to General Linguistics_, Stony Brook University
@@ -63,6 +65,7 @@ Additionally, I have worked on the stress system of Kuikuro (Cariban) with <a hr
   - _SLAV-S512 Intensive Elementary Bosnian/Croatian/Serbian II_, Indiana University
 
 **Teaching assistant**
+- Fall 2022: _LIN 110 The Anatomy of English Words_, Stony Brook University (Instructor: <a href="http://www.andant.info">Andrei Antonenko</a>)
 - Winter 2022:
   - _Introduction to Morphology_, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>, held online (Instructor: <a href="https://www.gouskova.com">Maria Gouskova</a>)
   - _Universals in Phonology_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://sites.google.com/site/shantijulfsbjorninn/">Shanti Ulfsbjorninn</a>)
