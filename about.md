@@ -36,6 +36,8 @@ Additionally, I have worked on the stress system of Kuikuro (Cariban) with <a hr
 - characterized as logical transductions on strings: <a href="https://drive.google.com/file/d/1eFOIYSSiZxBhWwQ0Xb4wv4i40Uen7aSO/view?usp=sharing">slides</a>. _in review_
 - analyzed with PFM: <a href="https://www.uni-goettingen.de/de/document/download/25678a0d33e7f08d437152b6a81baef8.pdf/Petrovic.pdf">abstract</a>, <a href="https://drive.google.com/file/d/106pYNE4oOIuOTqWU0QIHgiwtP5P-wY2k/view?usp=sharing">slides</a>
 
+**Syntactic epenthesis and the Russian N-factor.** With <a href="https://linguistics.stonybrook.edu/faculty/john.bailyn/">John F. Bailyn</a>. <a href="https://drive.google.com/file/d/1oat6KPz5Twv4JMfbvSJiHPYRi45iIQIc/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1mQmTUgvGxgfjp6VaEwqXN0Vhc2miCXvP/view?usp=sharing">handout</a>
+
 **Vowel fronting in Serbo-Croatian nominal inflection** (advised by Michael Becker). <a href="https://drive.google.com/file/d/1W1l0V0k35Jm8WYm2IFsWzuFKb1IfBfxy/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1FpqRUWFsejXvaVRHQV21SrSJzdeXt_HD/view?usp=sharing">slides</a>. _in review_
 
 **The incoherent stress of Kuikuro.** With Michael Becker, <a href="http://www.ppgasmn-ufrj.com/bruna-franchetto.html">Bruna Franchetto</a>, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://drive.google.com/file/d/1xOnlsIAmJz-0_IuCiiza97r32PRVvct8/view">abstract</a>, <a href="https://drive.google.com/file/d/1PKBB_QQFBxjaz0-K0JCrWVbd4JftHgrw/view?usp=sharing">handout</a>. _in review_
@@ -72,7 +74,7 @@ Additionally, I have worked on the stress system of Kuikuro (Cariban) with <a hr
 - Summer 2021:
   - _Infixation: Typology and Theory_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://www.laurakalin.com">Laura Kalin</a>)
   - _What's a problem in phonology?_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://noamfaust.wordpress.com">Noam Faust</a>)
-- Spring 2021: _LIN 110 The Anatomy of English Words_, Stony Brook University (Instructor: <a href="https://linguistics.stonybrook.edu/faculty/john.bailyn/">John Bailyn</a>)
+- Spring 2021: _LIN 110 The Anatomy of English Words_, Stony Brook University (Instructor: John F. Bailyn)
 - Winter 2021: _The Afterlife of a Socialist Military_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://ikss.zrc-sazu.si/en/sodelavci/tanja-petrovic-en#v">Tanja Petrović</a>)
 - Fall 2020: _LIN 356 Language and Life in Eastern Europe_, Stony Brook University (Instructor: John Bailyn)
 - Summer 2020: _Words and other things: what do you need to list in your head?_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructors: <a href="https://asiapietraszko.com">Asia Pietraszko</a>, <a href="https://omer.lingsite.org">Omer Preminger</a>)
