@@ -14,7 +14,7 @@ published: true
 
 I am a Ph.D. candidate in the <a href="https://linguistics.stonybrook.edu/">Stony Brook University Department of Linguistics</a>. 
 
-My primary research interests lie in phonology, morphology, and their interface. More specifically, I work on the stress system of Kuikuro (Cariban), morphophonological vowel fronting in Serbo-Croatian, and morphologically conditioned segment insertion in different languages. In my dissertation, I provide a characterization of morphological processes as logical transductions over strings.
+My primary research interests lie in phonology, morphology, and their interface. More specifically, I work on the stress system of Kuikuro (Cariban), morphophonological vowel fronting in Serbo-Croatian, and morphologically conditioned segment insertion in different languages. In my dissertation,  characterization of morphological processes as logical transductions 
 
 I am an editor of <a href="https://benjamins.com/catalog/cilt.353">_All Things Morphology: Its independence and its interfaces_</a>, with <a href="https://somoradi.github.io">Sedigheh Moradi</a>, <a href="https://www.ou.edu/cas/modlang/people/linguistics/m-haag">Marcia Haag</a>, and <a href="https://www.researchgate.net/profile/Janie-Rees-Miller">Janie Rees-Miller</a>. The volume is dedicated to <a href="https://linguistics.stonybrook.edu/faculty/mark.aronoff/">Mark Aronoff</a>.
 
@@ -26,7 +26,7 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 
 **The incoherent stress of Kuikuro.** With <a href="https://becker.phonologist.org">Michael Becker</a>, <a href="http://www.ppgasmn-ufrj.com/bruna-franchetto.html">Bruna Franchetto</a>, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://drive.google.com/file/d/1xOnlsIAmJz-0_IuCiiza97r32PRVvct8/view">abstract</a>, <a href="https://drive.google.com/file/d/1PKBB_QQFBxjaz0-K0JCrWVbd4JftHgrw/view?usp=sharing">handout</a>. _accepted, NLLT_
 
-**Vowel fronting in Serbo-Croatian nominal inflection**. <a href="https://drive.google.com/file/d/1W1l0V0k35Jm8WYm2IFsWzuFKb1IfBfxy/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1FpqRUWFsejXvaVRHQV21SrSJzdeXt_HD/view?usp=sharing">slides</a>. _in press, CLS Proceedings_
+**Vowel fronting in Serbo-Croatian nominal inflection**. <a href="https://drive.google.com/file/d/1W1l0V0k35Jm8WYm2IFsWzuFKb1IfBfxy/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1FpqRUWFsejXvaVRHQV21SrSJzdeXt_HD/view?usp=sharing">slides</a>. _in press, CLS 57 Proceedings_
 
 **Morphological epenthesis in Serbo-Croatian neuter nouns** (co-advised by Mark Aronoff and <a href="http://jeffreyheinz.net">Jeff Heinz</a>):
 - characterized as logical transductions on strings: <a href="https://drive.google.com/file/d/1eFOIYSSiZxBhWwQ0Xb4wv4i40Uen7aSO/view?usp=sharing">slides</a>. _under review_
