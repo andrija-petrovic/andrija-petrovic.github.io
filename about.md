@@ -14,33 +14,27 @@ published: true
 
 I am a Ph.D. candidate in the <a href="https://linguistics.stonybrook.edu/">Stony Brook University Department of Linguistics</a>. 
 
-My primary research interests lie in morphology and its interfaces with phonology and syntax. More specifically,
-
-* morphologically conditioned segment insertion 
-* characterization of morphological processes as logical transductions 
-* morphophonological vowel fronting in Serbo-Croatian
+My primary research interests lie in phonology, morphology, and their interface. More specifically, I work on the stress system of Kuikuro (Cariban), morphophonological vowel fronting in Serbo-Croatian, and morphologically conditioned segment insertion in different languages. In my dissertation, I provide a characterization of morphological processes as logical transductions over strings.
 
 I am an editor of <a href="https://benjamins.com/catalog/cilt.353">_All Things Morphology: Its independence and its interfaces_</a>, with <a href="https://somoradi.github.io">Sedigheh Moradi</a>, <a href="https://www.ou.edu/cas/modlang/people/linguistics/m-haag">Marcia Haag</a>, and <a href="https://www.researchgate.net/profile/Janie-Rees-Miller">Janie Rees-Miller</a>. The volume is dedicated to <a href="https://linguistics.stonybrook.edu/faculty/mark.aronoff/">Mark Aronoff</a>.
 
 I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petrovic/andrija-petrovic.github.io/master/images/TeamEpenthesis.png">Epenthesis research group</a> led by <a href="https://linguistics.stonybrook.edu/faculty/lori.repetti/">Lori Repetti</a>. We organized a <a href="https://www.stonybrook.edu/epenthesis/">workshop on epenthesis (and beyond)</a> in September 2021: the program can be found <a href="https://www.stonybrook.edu/commcms/epenthesis/program.php">here</a>, and we are working on a volume of selected papers. More information coming soon!
 
-Additionally, I have worked on the stress system of Kuikuro (Cariban) with <a href="https://becker.phonologist.org">Michael Becker</a>.
-
 ----
 
 ### Research
 
-**Modeling morphological epenthesis.** <a href="https://drive.google.com/file/d/1w5f_bgQesLDmIXQSzOwfB9t9z9GT7DsP/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1Jr-pNyWNG992Yml0kUQmkoaC8l8wzIfS/view?usp=sharing">slides</a>
+**The incoherent stress of Kuikuro.** With <a href="https://becker.phonologist.org">Michael Becker</a>, <a href="http://www.ppgasmn-ufrj.com/bruna-franchetto.html">Bruna Franchetto</a>, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://drive.google.com/file/d/1xOnlsIAmJz-0_IuCiiza97r32PRVvct8/view">abstract</a>, <a href="https://drive.google.com/file/d/1PKBB_QQFBxjaz0-K0JCrWVbd4JftHgrw/view?usp=sharing">handout</a>. _accepted, NLLT_
+
+**Vowel fronting in Serbo-Croatian nominal inflection**. <a href="https://drive.google.com/file/d/1W1l0V0k35Jm8WYm2IFsWzuFKb1IfBfxy/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1FpqRUWFsejXvaVRHQV21SrSJzdeXt_HD/view?usp=sharing">slides</a>. _in press, CLS Proceedings_
 
 **Morphological epenthesis in Serbo-Croatian neuter nouns** (co-advised by Mark Aronoff and <a href="http://jeffreyheinz.net">Jeff Heinz</a>):
-- characterized as logical transductions on strings: <a href="https://drive.google.com/file/d/1eFOIYSSiZxBhWwQ0Xb4wv4i40Uen7aSO/view?usp=sharing">slides</a>. _in review_
+- characterized as logical transductions on strings: <a href="https://drive.google.com/file/d/1eFOIYSSiZxBhWwQ0Xb4wv4i40Uen7aSO/view?usp=sharing">slides</a>. _under review_
 - analyzed with PFM: <a href="https://www.uni-goettingen.de/de/document/download/25678a0d33e7f08d437152b6a81baef8.pdf/Petrovic.pdf">abstract</a>, <a href="https://drive.google.com/file/d/106pYNE4oOIuOTqWU0QIHgiwtP5P-wY2k/view?usp=sharing">slides</a>
 
+**Modeling morphological epenthesis.** <a href="https://drive.google.com/file/d/1w5f_bgQesLDmIXQSzOwfB9t9z9GT7DsP/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1Jr-pNyWNG992Yml0kUQmkoaC8l8wzIfS/view?usp=sharing">slides</a>
+
 **Syntactic epenthesis and the Russian N-factor.** With <a href="https://linguistics.stonybrook.edu/faculty/john.bailyn/">John F. Bailyn</a>. <a href="https://drive.google.com/file/d/1oat6KPz5Twv4JMfbvSJiHPYRi45iIQIc/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1mQmTUgvGxgfjp6VaEwqXN0Vhc2miCXvP/view?usp=sharing">handout</a>
-
-**Vowel fronting in Serbo-Croatian nominal inflection** (advised by Michael Becker). <a href="https://drive.google.com/file/d/1W1l0V0k35Jm8WYm2IFsWzuFKb1IfBfxy/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1FpqRUWFsejXvaVRHQV21SrSJzdeXt_HD/view?usp=sharing">slides</a>. _in review_
-
-**The incoherent stress of Kuikuro.** With Michael Becker, <a href="http://www.ppgasmn-ufrj.com/bruna-franchetto.html">Bruna Franchetto</a>, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://drive.google.com/file/d/1xOnlsIAmJz-0_IuCiiza97r32PRVvct8/view">abstract</a>, <a href="https://drive.google.com/file/d/1PKBB_QQFBxjaz0-K0JCrWVbd4JftHgrw/view?usp=sharing">handout</a>. _in review_
 
 ----
 
