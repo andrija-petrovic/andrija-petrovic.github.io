@@ -7,14 +7,14 @@ published: true
 
 <strong>Email:</strong> andrija [dot] petrovic [at] stonybrook [dot] edu <!--(<em>contact for full CV</em>)-->
 
-<strong>Office:</strong> N220, Social and Behavioral Sciences (SBS)
+<strong>Office:</strong> S119, Social and Behavioral Sciences (SBS)
 
 <br>
 <br>
 
 I am a Ph.D. candidate in the <a href="https://linguistics.stonybrook.edu/">Stony Brook University Department of Linguistics</a>. 
 
-My primary research interests lie in phonology, morphology, and their interface. More specifically, I work on the stress system of Kuikuro (Cariban), morphophonological vowel fronting in Serbo-Croatian, and morphologically conditioned segment insertion in different languages. In my dissertation, I provide a characterization of morphological processes as logical transductions on strings, and focus on the architecture of the morphological module, specifically as it pertains to the interfaces with phonology and syntax.
+My primary research interests lie in phonology, morphology, and their interfaces. More specifically, I work on the stress system of Kuikuro (Cariban), morphophonological vowel fronting in Serbo-Croatian, and morphologically conditioned segment insertion in different languages. In my dissertation, I provide a characterization of morphological processes as logical transductions on strings, and focus on the architecture of the morphological module, specifically as it pertains to the interfaces with phonology and syntax.
 
 I am an editor of <a href="https://benjamins.com/catalog/cilt.353">_All Things Morphology: Its independence and its interfaces_</a>, with <a href="https://somoradi.github.io">Sedigheh Moradi</a>, <a href="https://www.ou.edu/cas/modlang/people/linguistics/m-haag">Marcia Haag</a>, and <a href="https://www.researchgate.net/profile/Janie-Rees-Miller">Janie Rees-Miller</a>. The volume is dedicated to <a href="https://linguistics.stonybrook.edu/faculty/mark.aronoff/">Mark Aronoff</a>.
 
@@ -29,7 +29,7 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 **Vowel fronting in Serbo-Croatian nominal inflection**. <a href="https://drive.google.com/file/d/1W1l0V0k35Jm8WYm2IFsWzuFKb1IfBfxy/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1FpqRUWFsejXvaVRHQV21SrSJzdeXt_HD/view?usp=sharing">slides</a>. _in press, CLS 57 Proceedings_
 
 **Morphological epenthesis in Serbo-Croatian neuter nouns** (co-advised by Mark Aronoff and <a href="http://jeffreyheinz.net">Jeff Heinz</a>):
-- characterized as logical transductions on strings: <a href="https://drive.google.com/file/d/1eFOIYSSiZxBhWwQ0Xb4wv4i40Uen7aSO/view?usp=sharing">slides</a>. _under review_
+- characterized as logical transductions on strings: <a href="https://github.com/andrija-petrovic/andrija-petrovic.github.io/blob/11e745a1a5daf3842782d672bec54e5a6532989d/pdfs/Morpho_epenth_SC.pdf">current draft</a>, <a href="https://drive.google.com/file/d/1eFOIYSSiZxBhWwQ0Xb4wv4i40Uen7aSO/view?usp=sharing">slides</a>. _under review_
 - analyzed with PFM: <a href="https://www.uni-goettingen.de/de/document/download/25678a0d33e7f08d437152b6a81baef8.pdf/Petrovic.pdf">abstract</a>, <a href="https://drive.google.com/file/d/106pYNE4oOIuOTqWU0QIHgiwtP5P-wY2k/view?usp=sharing">slides</a>
 
 **Modeling morphological epenthesis.** <a href="https://drive.google.com/file/d/1w5f_bgQesLDmIXQSzOwfB9t9z9GT7DsP/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1Jr-pNyWNG992Yml0kUQmkoaC8l8wzIfS/view?usp=sharing">slides</a>
