@@ -32,6 +32,8 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 - characterized as logical transductions on strings: <a href="https://github.com/andrija-petrovic/andrija-petrovic.github.io/blob/11e745a1a5daf3842782d672bec54e5a6532989d/pdfs/Morpho_epenth_SC.pdf">current draft</a>. _accepted, Morphology_
 - analyzed with PFM: <a href="https://www.uni-goettingen.de/de/document/download/25678a0d33e7f08d437152b6a81baef8.pdf/Petrovic.pdf">abstract</a>, <a href="https://drive.google.com/file/d/106pYNE4oOIuOTqWU0QIHgiwtP5P-wY2k/view?usp=sharing">slides</a>
 
+**Where do they belong: Serbo‐Croatian noun stems need leading forms**. <a href="https://drive.google.com/file/d/1NJBo5yKsiryIFNEk8lLPLLNbgquRwESG/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1f0PxzRsw-aU0Oa_KVC10U2ReoXEVgk1w/view?usp=sharing">poster</a>. _manuscript under review_
+
 **Modeling morphological epenthesis.** <a href="https://drive.google.com/file/d/1w5f_bgQesLDmIXQSzOwfB9t9z9GT7DsP/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1Jr-pNyWNG992Yml0kUQmkoaC8l8wzIfS/view?usp=sharing">slides</a>
 
 **Syntactic epenthesis and the Russian N-factor.** With <a href="https://linguistics.stonybrook.edu/faculty/john.bailyn/">John F. Bailyn</a>. <a href="https://drive.google.com/file/d/1oat6KPz5Twv4JMfbvSJiHPYRi45iIQIc/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1mQmTUgvGxgfjp6VaEwqXN0Vhc2miCXvP/view?usp=sharing">handout</a>
@@ -41,7 +43,6 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 ### Projects
 
 - <a href="https://docs.google.com/presentation/d/1zgAJASr8-DsS_hyTPig3vgFj8kw_HiXVHrcQ--M8_1o/edit?usp=sharing">**What's in a Song? A music genre classification project**</a>, with <a href="https://astronomy.osu.edu/people/bose.48">Subhash Bose</a> and <a href="https://math.osu.edu/people/hales.41">Jonathon Hales</a>. <a href="https://www.erdosinstitute.org/may2021certificates/andrija-petrovic">The Erdős Institute Data Science Bootcamp</a>, May 2021
-- **Where do they belong: Serbo‐Croatian noun stems need leading forms**. A Python/Pynini implementation of the inflectional class assignment process of lexical entries in Serbo‐Croatian
 - Fieldwork on Kuikuro, Brazil. With Michael Becker and Bruna Franchetto
 - Fieldwork on Istro-Romanian, Croatia. With <a href="https://www.rose.uzh.ch/de/seminar/wersindwir/mitarbeitende/loporcaro.html">Michele Loporcaro</a> and <a href="https://francescogardani.wordpress.com">Francesco Gardani</a>
 
