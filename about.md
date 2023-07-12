@@ -29,7 +29,7 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 **Vowel fronting in Serbo-Croatian nominal inflection**. <a href="https://drive.google.com/file/d/1F6EUJMevuyJGwDgqBx-X9IGx91-GFuMi/view?usp=sharing">current draft</a>. _in press, <a href="http://chicagolinguisticsociety.org/public/cls57-toc.pdf">CLS 57 Proceedings</a>_
 
 **Morphological epenthesis in Serbo-Croatian neuter nouns** (co-advised by Mark Aronoff and <a href="http://jeffreyheinz.net">Jeff Heinz</a>):
-- characterized as logical transductions on strings: <a href="https://github.com/andrija-petrovic/andrija-petrovic.github.io/blob/11e745a1a5daf3842782d672bec54e5a6532989d/pdfs/Morpho_epenth_SC.pdf">current draft</a>. _accepted, Morphology_
+- characterized as logical transductions on strings: <a href="https://rdcu.be/dglac">_Morphology, 2023_</a>.
 - analyzed with PFM: <a href="https://www.uni-goettingen.de/de/document/download/25678a0d33e7f08d437152b6a81baef8.pdf/Petrovic.pdf">abstract</a>, <a href="https://drive.google.com/file/d/106pYNE4oOIuOTqWU0QIHgiwtP5P-wY2k/view?usp=sharing">slides</a>
 
 **Where do they belong: Serbo‐Croatian noun stems need leading forms**. <a href="https://drive.google.com/file/d/1NJBo5yKsiryIFNEk8lLPLLNbgquRwESG/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1f0PxzRsw-aU0Oa_KVC10U2ReoXEVgk1w/view?usp=sharing">poster</a>. _manuscript under review_
