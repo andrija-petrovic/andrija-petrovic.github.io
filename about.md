@@ -24,7 +24,7 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 
 ### Research
 
-**The incoherent stress of Kuikuro.** With <a href="https://becker.phonologist.org">Michael Becker</a>, <a href="http://www.ppgasmn-ufrj.com/bruna-franchetto.html">Bruna Franchetto</a>, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://drive.google.com/file/d/1xOnlsIAmJz-0_IuCiiza97r32PRVvct8/view">abstract</a>, <a href="https://drive.google.com/file/d/1PKBB_QQFBxjaz0-K0JCrWVbd4JftHgrw/view?usp=sharing">handout</a>. _accepted, NLLT_
+**The incoherent stress of Kuikuro.** With <a href="https://becker.phonologist.org">Michael Becker</a>, <a href="http://vlv19.abralin.org/en/speaker/bruna-franchetto-2/">Bruna Franchetto</a>, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://drive.google.com/file/d/1xOnlsIAmJz-0_IuCiiza97r32PRVvct8/view">abstract</a>, <a href="https://drive.google.com/file/d/1PKBB_QQFBxjaz0-K0JCrWVbd4JftHgrw/view?usp=sharing">handout</a>. _accepted, NLLT_
 
 **Vowel fronting in Serbo-Croatian nominal inflection**. <a href="https://drive.google.com/file/d/1F6EUJMevuyJGwDgqBx-X9IGx91-GFuMi/view?usp=sharing">current draft</a>. _in press, <a href="http://chicagolinguisticsociety.org/public/cls57-toc.pdf">CLS 57 Proceedings</a>_
 
