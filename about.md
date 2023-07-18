@@ -88,7 +88,7 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 ### Professional services
 
 - Reviewer for <a href="https://www.degruyter.com/journal/key/TLIR/html">_The Linguistic Review (TLR)_</a>, <a href="https://www.glossa-journal.org">_Glossa_</a>, <a href="https://fasl30.mit.edu/proc">_FASL 30 Proceedings_</a>
-- SBU <a href="https://linguistics.stonybrook.edu/graduate/index.php">Department of Linguistics Graduate programs recruitment video</a>
+- SBU <a href="https://www.youtube.com/watch?v=-90HCxfMgDQ&t=41s">Department of Linguistics Graduate programs recruitment video</a>
 - SBU Department of Linguistics Graduate student representative (Fall 2020 – Spring 2021)
 - <a href="https://www.stonybrook.edu/commcms/fellowships/featured-awards/fulbright/">SBU Fulbright Campus Committee</a> member (2019)
 - <a href="https://grad.stonybrook.edu/professional-development/sbu3mt/3mt-2019">SBU Three Minute Thesis competition</a>, moderator (2019)
