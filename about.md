@@ -26,7 +26,7 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 
 **The incoherent stress of Kuikuro.** With <a href="https://becker.phonologist.org">Michael Becker</a>, <a href="http://vlv19.abralin.org/en/speaker/bruna-franchetto-2/">Bruna Franchetto</a>, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://drive.google.com/file/d/1xOnlsIAmJz-0_IuCiiza97r32PRVvct8/view">abstract</a>, <a href="https://drive.google.com/file/d/1PKBB_QQFBxjaz0-K0JCrWVbd4JftHgrw/view?usp=sharing">handout</a>. _accepted, NLLT_
 
-**Vowel fronting in Serbo-Croatian nominal inflection**. _<a href="https://drive.google.com/file/d/1D1kVuDU0iBhqBvNk3KBsotHZvtWj1_jX/view?usp=sharing">CLS 57 Proceedings, 2022</a>_
+**Vowel fronting in Serbo-Croatian nominal inflection**. _<a href="https://drive.google.com/file/d/1D1kVuDU0iBhqBvNk3KBsotHZvtWj1_jX/view?usp=sharing">CLS 57 Proceedings, 2022</a>_, pp. 345–359.
 
 **Morphological epenthesis in Serbo-Croatian neuter nouns** (co-advised by Mark Aronoff and <a href="http://jeffreyheinz.net">Jeff Heinz</a>):
 - characterized as logical transductions on strings: <a href="https://rdcu.be/dglac">_Morphology, 2023_</a>.
