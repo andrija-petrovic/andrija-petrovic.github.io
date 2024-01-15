@@ -12,7 +12,7 @@ published: true
 <br>
 <br>
 
-I am a Ph.D. graduate from <a href="https://linguistics.stonybrook.edu/">Stony Brook University's Department of Linguistics</a>. You can find my dissertation [here](https://drive.google.com/file/d/1lR9l2QByzb77e0EMlKKOKoWpMatx_BXS/view?usp=share_link).
+I am a Ph.D. graduate from <a href="https://linguistics.stonybrook.edu/">Stony Brook University's Department of Linguistics</a>.
 
 My primary research interests lie in phonology, morphology, and their interfaces. More specifically, I work on the stress system of Kuikuro (Cariban), morphophonological vowel fronting in Serbo-Croatian, and morphologically conditioned segment insertion in different languages. In my dissertation, I provide a characterization of morphological processes as logical transductions on strings, and focus on the architecture of the morphological module, specifically as it pertains to the interfaces with phonology and syntax.
 
