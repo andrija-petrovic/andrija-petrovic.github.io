@@ -5,14 +5,14 @@ permalink: /about/
 published: true
 ---
 
-<strong>Email:</strong> andrija [dot] petrovic [at] stonybrook [dot] edu <!--(<em>contact for full CV</em>)-->
+<strong>Email:</strong> andrija [dot] petrovic [at] stonybrook [dot] edu (<em>contact for full CV</em>)
 
-<strong>Office:</strong> S119, Social and Behavioral Sciences (SBS)
+<!-- <strong>Office:</strong> S119, Social and Behavioral Sciences (SBS) -->
 
 <br>
 <br>
 
-I am a Ph.D. candidate (ABD) in the <a href="https://linguistics.stonybrook.edu/">Stony Brook University Department of Linguistics</a>. 
+I am a Ph.D. graduate from <a href="https://linguistics.stonybrook.edu/">Stony Brook University's Department of Linguistics</a>. You can find my dissertation [here](https://drive.google.com/file/d/1lR9l2QByzb77e0EMlKKOKoWpMatx_BXS/view?usp=share_link).
 
 My primary research interests lie in phonology, morphology, and their interfaces. More specifically, I work on the stress system of Kuikuro (Cariban), morphophonological vowel fronting in Serbo-Croatian, and morphologically conditioned segment insertion in different languages. In my dissertation, I provide a characterization of morphological processes as logical transductions on strings, and focus on the architecture of the morphological module, specifically as it pertains to the interfaces with phonology and syntax.
 
@@ -51,6 +51,7 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 ### Teaching
 
 **Primary instructor**
+- Winter 2024: _Introduction to Morphology_, <a href="https://nyispb.org">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>
 - Summer 2022: _LIN 110 The Anatomy of English Words_, Stony Brook University
 - Spring 2022: _LIN 110 The Anatomy of English Words_, Stony Brook University
 - Winter 2022: _LIN 200 Language in the U.S._, Stony Brook University (co-taught with <a href="https://snelson89.bitbucket.io">Scott Nelson</a>)
@@ -64,15 +65,15 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 **Teaching assistant**
 - Fall 2022: _LIN 110 The Anatomy of English Words_, Stony Brook University (Instructor: <a href="http://www.andant.info">Andrei Antonenko</a>)
 - Winter 2022:
-  - _Introduction to Morphology_, <a href="https://nyi.spb.ru">St. Petersburg Institute of Linguistics, Cognition and Culture (NYI)</a>, held online (Instructor: <a href="https://www.gouskova.com">Maria Gouskova</a>)
-  - _Universals in Phonology_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://sites.google.com/site/shantijulfsbjorninn/">Shanti Ulfsbjorninn</a>)
+  - _Introduction to Morphology_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI) (Instructor: <a href="https://www.gouskova.com">Maria Gouskova</a>)
+  - _Universals in Phonology_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI) (Instructor: <a href="https://sites.google.com/site/shantijulfsbjorninn/">Shanti Ulfsbjorninn</a>)
 - Summer 2021:
-  - _Infixation: Typology and Theory_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://www.laurakalin.com">Laura Kalin</a>)
-  - _What's a problem in phonology?_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://noamfaust.wordpress.com">Noam Faust</a>)
+  - _Infixation: Typology and Theory_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI) (Instructor: <a href="https://www.laurakalin.com">Laura Kalin</a>)
+  - _What's a problem in phonology?_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI) (Instructor: <a href="https://noamfaust.wordpress.com">Noam Faust</a>)
 - Spring 2021: _LIN 110 The Anatomy of English Words_, Stony Brook University (Instructor: John F. Bailyn)
-- Winter 2021: _The Afterlife of a Socialist Military_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructor: <a href="https://ikss.zrc-sazu.si/en/sodelavci/tanja-petrovic-en#v">Tanja Petrović</a>)
+- Winter 2021: _The Afterlife of a Socialist Military_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI) (Instructor: <a href="https://ikss.zrc-sazu.si/en/sodelavci/tanja-petrovic-en#v">Tanja Petrović</a>)
 - Fall 2020: _LIN 356 Language and Life in Eastern Europe_, Stony Brook University (Instructor: John Bailyn)
-- Summer 2020: _Words and other things: what do you need to list in your head?_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI), held online (Instructors: <a href="https://asiapietraszko.com">Asia Pietraszko</a>, <a href="https://omer.lingsite.org">Omer Preminger</a>)
+- Summer 2020: _Words and other things: what do you need to list in your head?_, St. Petersburg Institute of Linguistics, Cognition and Culture (NYI) (Instructors: <a href="https://asiapietraszko.com">Asia Pietraszko</a>, <a href="https://omer.lingsite.org">Omer Preminger</a>)
 - Spring 2020: _LIN 431 Structure of an Uncommonly Taught Language_, Stony Brook University (Instructor: <a href="https://linguistics.stonybrook.edu/faculty/daniel.finer/">Daniel Finer</a>)
 - Spring 2019: _LIN 200 Language in the U.S._, Stony Brook University (Instructor: <a href="https://paolacepeda.com">Paola Cépeda</a>)
 - Spring--Fall 2018: _LIN 201 Phonetics_, Stony Brook University (Instructor: <a href="https://linguistics.stonybrook.edu/faculty/marie.huffman/">Marie Huffman</a>)
@@ -87,7 +88,7 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 
 ### Professional services
 
-- Reviewer for <a href="https://www.degruyter.com/journal/key/TLIR/html">_The Linguistic Review (TLR)_</a>, <a href="https://www.glossa-journal.org">_Glossa_</a>, <a href="https://fasl30.mit.edu/proc">_FASL 30 Proceedings_</a>
+- Reviewer for <a href="https://www.degruyter.com/journal/key/TLIR/html">_The Linguistic Review (TLR)_</a>, <a href="https://www.glossa-journal.org">_Glossa_</a>, <a href="https://fasl30.mit.edu/proc">_FASL 30 Proceedings_</a>, <a href="https://www.researchgate.net/publication/366808543_The_Wiley-Blackwell_Companion_to_Diachronic_Linguistics_5_vols">_The Wiley-Blackwell Companion to Diachronic Linguistics (DiaCom)_</a>
 - SBU <a href="https://www.youtube.com/watch?v=-90HCxfMgDQ&t">Department of Linguistics Graduate programs recruitment video</a>
 - SBU Department of Linguistics Graduate student representative (Fall 2020 – Spring 2021)
 - <a href="https://www.stonybrook.edu/commcms/fellowships/featured-awards/fulbright/">SBU Fulbright Campus Committee</a> member (2019)
