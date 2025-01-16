@@ -96,6 +96,7 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 
 ----
 
-### Membership
+### Membership & Awards
 
 - Slavic Linguistics Society; <a href="https://www.slaviclinguistics.org/charles-e-townsend-memorial-fund">Charles E. Townsend Award</a>
+- <a href="https://www.stonybrook.edu/commcms/grad/tuition_funding/graduate-school-programs/graduate-awards/past-awardees.php#2022">President's Award for Excellence in Teaching by a Graduate Student</a>, Stony Brook University.
