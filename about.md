@@ -90,7 +90,7 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 
 ### Professional services
 
-- Reviewer for <a href="https://link.springer.com/journal/11525">_Morphology_</a>, <a href="https://www.degruyter.com/journal/key/TLIR/html">_The Linguistic Review (TLR)_</a>, <a href="https://www.glossa-journal.org">_Glossa_</a>, <a href="https://fasl30.mit.edu/proc">_FASL 30 Proceedings_</a>, <a href="https://www.researchgate.net/publication/366808543_The_Wiley-Blackwell_Companion_to_Diachronic_Linguistics_5_vols">_The Wiley-Blackwell Companion to Diachronic Linguistics (DiaCom)_</a>
+- Reviewer for <a href="https://link.springer.com/journal/11525">_Morphology_</a>, <a href="https://www.degruyter.com/journal/key/TLIR/html">_The Linguistic Review (TLR)_</a>, <a href="https://www.glossa-journal.org">_Glossa_</a>, <a href="http://ojs.ung.si/index.php/JSL/issue/view/29">_FASL 30 Proceedings_</a>, <a href="https://www.researchgate.net/publication/366808543_The_Wiley-Blackwell_Companion_to_Diachronic_Linguistics_5_vols">_The Wiley-Blackwell Companion to Diachronic Linguistics (DiaCom)_</a>
 - SBU <a href="https://www.youtube.com/watch?v=-90HCxfMgDQ&t">Department of Linguistics Graduate programs recruitment video</a>
 - SBU Department of Linguistics Graduate student representative (Fall 2020 – Spring 2021)
 - <a href="https://www.stonybrook.edu/commcms/fellowships/featured-awards/fulbright/">SBU Fulbright Campus Committee</a> member (2019)
