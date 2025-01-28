@@ -34,6 +34,8 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 
 **Where do they belong: Serbo‐Croatian noun stems need leading forms**. <a href="https://drive.google.com/file/d/1NJBo5yKsiryIFNEk8lLPLLNbgquRwESG/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1f0PxzRsw-aU0Oa_KVC10U2ReoXEVgk1w/view?usp=sharing">poster</a>. _manuscript under review_
 
+**Formalizing syntactically conditioned morphological processes over strings**. <a href="https://drive.google.com/file/d/169LTy5lsh3SBQSpxMNaf8L57udZrCbmH/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1wBCibrZZVc-snTxrm5z9SJzRL47h3cl6/view?usp=sharing">slides</a>. _manuscript under review_
+
 **Modeling morphological epenthesis.** <a href="https://drive.google.com/file/d/1w5f_bgQesLDmIXQSzOwfB9t9z9GT7DsP/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1Jr-pNyWNG992Yml0kUQmkoaC8l8wzIfS/view?usp=sharing">slides</a>
 
 **Syntactic epenthesis and the Russian N-factor.** With <a href="https://linguistics.stonybrook.edu/faculty/john.bailyn/">John F. Bailyn</a>. <a href="https://drive.google.com/file/d/1oat6KPz5Twv4JMfbvSJiHPYRi45iIQIc/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1mQmTUgvGxgfjp6VaEwqXN0Vhc2miCXvP/view?usp=sharing">handout</a>
