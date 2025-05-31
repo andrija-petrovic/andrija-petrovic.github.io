@@ -12,9 +12,11 @@ published: true
 <br>
 <br>
 
-I am a Ph.D. graduate from <a href="https://linguistics.stonybrook.edu/">Stony Brook University's Department of Linguistics</a>.
+<!-- I am a Ph.D. graduate from <a href="https://linguistics.stonybrook.edu/">Stony Brook University's Department of Linguistics</a>. -->
 
-My primary research interests lie in phonology, morphology, and their interfaces. More specifically, I work on the stress system of Kuikuro (Cariban), morphophonological vowel fronting in Serbo-Croatian, and morphologically conditioned segment insertion in different languages. In my dissertation, I provide a characterization of morphological processes as logical transductions on strings, and focus on the architecture of the morphological module, specifically as it pertains to the interfaces with phonology and syntax.
+I am a Visiting Scholar at <a href="https://linguistics.stonybrook.edu/">Stony Brook University's Department of Linguistics</a>.
+
+My primary research interests lie in phonology, morphology, and their interfaces. More specifically, I work on the stress system of Kuikuro (Cariban), morphophonological vowel fronting in Serbo-Croatian, and morphologically conditioned segment insertion in different languages. In my <a href="https://linguistics.stonybrook.edu/_pdf/dissertation/Petrovic_2023_dissertation.pdf">dissertation</a>, I provide a characterization of morphological processes as logical transductions on strings, and focus on the architecture of the morphological module, specifically as it pertains to the interfaces with phonology and syntax.
 
 I am an editor of <a href="https://benjamins.com/catalog/cilt.353">_All Things Morphology: Its independence and its interfaces_</a>, with <a href="https://somoradi.github.io">Sedigheh Moradi</a>, <a href="https://www.ou.edu/cas/modlang/people/linguistics/m-haag">Marcia Haag</a>, and <a href="https://www.researchgate.net/profile/Janie-Rees-Miller">Janie Rees-Miller</a>. The volume is dedicated to <a href="https://linguistics.stonybrook.edu/faculty/mark.aronoff/">Mark Aronoff</a>.
 
