@@ -26,7 +26,7 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 
 ### Research
 
-**The incoherent stress of Kuikuro.** With <a href="https://becker.phonologist.org">Michael Becker</a>, <a href="http://vlv19.abralin.org/en/speaker/bruna-franchetto-2/">Bruna Franchetto</a>, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://link.springer.com/article/10.1007/s11049-025-09676-2">_NLLT, 2025_</a>.
+**The incoherent stress of Kuikuro.** With <a href="https://becker.phonologist.org">Michael Becker</a>, <a href="http://vlv19.abralin.org/en/speaker/bruna-franchetto-2/">Bruna Franchetto</a>, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://rdcu.be/exg8I">_NLLT, 2025_</a>.
 
 **Vowel fronting in Serbo-Croatian nominal inflection**. _<a href="https://drive.google.com/file/d/1D1kVuDU0iBhqBvNk3KBsotHZvtWj1_jX/view?usp=sharing">CLS 57 Proceedings, 2022</a>_, pp. 345–359.
 
