@@ -26,7 +26,7 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 
 ### Research
 
-**Modeling stress systems in Cariban.** With <a href="https://becker.phonologist.org">Michael Becker</a> and <a href="http://vlv19.abralin.org/en/speaker/bruna-franchetto-2/">Bruna Franchetto</a>. <a href="https://github.com/andrija-petrovic/andrija-petrovic.github.io/blob/a11de0338bfae7bddbba1abc12bb13becb63aa18/pdfs/Modelando%20sistemas%20acentuais%20na%20perspectiva%20Karib-abstract.pdf">abstract</a>, <a href="https://drive.google.com/file/d/1HNlIVUnpH6flufHuMyrJRgU0-yLoE1Hd/view?usp=sharing">slides</a>
+**Modeling stress systems in Cariban.** With <a href="https://becker.phonologist.org">Michael Becker</a> and <a href="http://vlv19.abralin.org/en/speaker/bruna-franchetto-2/">Bruna Franchetto</a>. <a href="https://raw.githubusercontent.com/andrija-petrovic/andrija-petrovic.github.io/master/pdfs/Modelando sistemas acentuais na perspectiva Karib-abstract.pdf">abstract</a>, <a href="https://drive.google.com/file/d/1HNlIVUnpH6flufHuMyrJRgU0-yLoE1Hd/view?usp=sharing">slides</a>
 
 **The incoherent stress of Kuikuro.** With Michael Becker, Bruna Franchetto, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://rdcu.be/exg8I">_NLLT, 2025_</a>.
 
