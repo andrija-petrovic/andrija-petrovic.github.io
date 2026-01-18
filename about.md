@@ -26,7 +26,9 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 
 ### Research
 
-**Modeling stress systems in Cariban.** With <a href="https://becker.phonologist.org">Michael Becker</a> and <a href="http://vlv19.abralin.org/en/speaker/bruna-franchetto-2/">Bruna Franchetto</a>. <a href="https://raw.githubusercontent.com/andrija-petrovic/andrija-petrovic.github.io/master/pdfs/Modelando sistemas acentuais na perspectiva Karib-abstract.pdf">abstract</a>, <a href="https://drive.google.com/file/d/1HNlIVUnpH6flufHuMyrJRgU0-yLoE1Hd/view?usp=sharing">slides</a>
+**Epenthesis goes beyond phonology: a unified formal account.** With Mark Aronoff, Sedigheh Moradi, and Lori Repetti. <a href="https://rivisteweb.it/doi/10.1418/118849">_Lingue e linguaggio, 2025_</a>. <a href="https://drive.google.com/file/d/1SNVRAGlHGfgs0GvwOV3YO6okdEtMrpF3/view?usp=sharing">\[pdf\]</a>
+
+**Modeling stress systems in Cariban.** With <a href="https://becker.phonologist.org">Michael Becker</a> and <a href="http://vlv19.abralin.org/en/speaker/bruna-franchetto-2/">Bruna Franchetto</a>. <a href="https://drive.google.com/file/d/1cJBeMuamQ-Hge783mDnbUdiVzhY_S0av/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1HNlIVUnpH6flufHuMyrJRgU0-yLoE1Hd/view?usp=sharing">slides</a>
 
 **The incoherent stress of Kuikuro.** With Michael Becker, Bruna Franchetto, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://rdcu.be/exg8I">_NLLT, 2025_</a>.
 
