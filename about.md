@@ -50,7 +50,7 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 
 ### Projects
 
-- <a href="https://docs.google.com/presentation/d/1zgAJASr8-DsS_hyTPig3vgFj8kw_HiXVHrcQ--M8_1o/edit?usp=sharing">**What's in a Song? A music genre classification project**</a>, with <a href="https://astronomy.osu.edu/people/bose.48">Subhash Bose</a> and <a href="https://math.osu.edu/people/hales.41">Jonathon Hales</a>. <a href="https://www.erdosinstitute.org/may2021certificates/andrija-petrovic">The Erdős Institute Data Science Bootcamp</a>, May 2021
+- <a href="https://docs.google.com/presentation/d/1zgAJASr8-DsS_hyTPig3vgFj8kw_HiXVHrcQ--M8_1o/edit?usp=sharing">**What's in a Song? A music genre classification project**</a>, with <a href="https://astro.subhashbose.com">Subhash Bose</a> and <a href="https://etd.ohiolink.edu/acprod/odb_etd/etd/r/1501/10?clear=10&p10_accession_num=osu1744036466436946">Jonathon Hales</a>. <a href="https://www.erdosinstitute.org/may2021certificates/andrija-petrovic">The Erdős Institute Data Science Bootcamp</a>, May 2021
 - Fieldwork on Kuikuro, Brazil. With Michael Becker and Bruna Franchetto
 - Fieldwork on Istro-Romanian, Croatia. With <a href="https://www.rose.uzh.ch/de/seminar/wersindwir/mitarbeitende/loporcaro.html">Michele Loporcaro</a> and <a href="https://francescogardani.wordpress.com">Francesco Gardani</a>
 
