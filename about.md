@@ -26,25 +26,25 @@ I am also a part of the <a href="https://raw.githubusercontent.com/andrija-petro
 
 ### Research
 
-**Epenthesis goes beyond phonology: a unified formal account.** With Mark Aronoff, Sedigheh Moradi, and Lori Repetti. <a href="https://rivisteweb.it/doi/10.1418/118849">_Lingue e linguaggio, 2025_</a>. <a href="https://drive.google.com/file/d/1SNVRAGlHGfgs0GvwOV3YO6okdEtMrpF3/view?usp=sharing">\[pdf\]</a>
+**Epenthesis goes beyond phonology: a unified formal account.** With Mark Aronoff, Sedigheh Moradi, and Lori Repetti. <a href="https://rivisteweb.it/doi/10.1418/118849">_Lingue e linguaggio, 2025_</a>. <a href="https://drive.google.com/file/d/1SNVRAGlHGfgs0GvwOV3YO6okdEtMrpF3/view?usp=sharing">\[ pdf \]</a>
 
-**Modeling stress systems in Cariban.** With <a href="https://becker.phonologist.org">Michael Becker</a> and <a href="http://vlv19.abralin.org/en/speaker/bruna-franchetto-2/">Bruna Franchetto</a>. <a href="https://drive.google.com/file/d/1cJBeMuamQ-Hge783mDnbUdiVzhY_S0av/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1HNlIVUnpH6flufHuMyrJRgU0-yLoE1Hd/view?usp=sharing">slides</a>
+**Modeling stress systems in Cariban.** With <a href="https://becker.phonologist.org">Michael Becker</a> and <a href="http://vlv19.abralin.org/en/speaker/bruna-franchetto-2/">Bruna Franchetto</a>. <a href="https://drive.google.com/file/d/1cJBeMuamQ-Hge783mDnbUdiVzhY_S0av/view?usp=sharing">\[ abstract \]</a>, <a href="https://drive.google.com/file/d/1HNlIVUnpH6flufHuMyrJRgU0-yLoE1Hd/view?usp=sharing">\[ slides \]</a>
 
 **The incoherent stress of Kuikuro.** With Michael Becker, Bruna Franchetto, Arawa Didi Kuikuro and Yanapa Mehinaku Kuikuro. <a href="https://rdcu.be/exg8I">_NLLT, 2025_</a>.
 
 **Morphological epenthesis in Serbo-Croatian neuter nouns** (co-advised by Mark Aronoff and <a href="http://jeffreyheinz.net">Jeff Heinz</a>):
 - characterized as logical transductions on strings: <a href="https://rdcu.be/dglac">_Morphology, 2023_</a>.
-- analyzed with PFM: <a href="https://www.uni-goettingen.de/de/document/download/25678a0d33e7f08d437152b6a81baef8.pdf/Petrovic.pdf">abstract</a>, <a href="https://drive.google.com/file/d/106pYNE4oOIuOTqWU0QIHgiwtP5P-wY2k/view?usp=sharing">slides</a>
+- analyzed with PFM: <a href="https://www.uni-goettingen.de/de/document/download/25678a0d33e7f08d437152b6a81baef8.pdf/Petrovic.pdf">\[ abstract \]</a>, <a href="https://drive.google.com/file/d/106pYNE4oOIuOTqWU0QIHgiwtP5P-wY2k/view?usp=sharing">\[ slides \]</a>
 
 **Vowel fronting in Serbo-Croatian nominal inflection**. _<a href="https://drive.google.com/file/d/1D1kVuDU0iBhqBvNk3KBsotHZvtWj1_jX/view?usp=sharing">CLS 57 Proceedings, 2022</a>_, pp. 345–359.
 
-**Where do they belong: Serbo‐Croatian noun stems need leading forms**. <a href="https://drive.google.com/file/d/1NJBo5yKsiryIFNEk8lLPLLNbgquRwESG/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1f0PxzRsw-aU0Oa_KVC10U2ReoXEVgk1w/view?usp=sharing">poster</a>. _manuscript under review_
+**Where do they belong: Serbo‐Croatian noun stems need leading forms**. <a href="https://drive.google.com/file/d/1NJBo5yKsiryIFNEk8lLPLLNbgquRwESG/view?usp=sharing">\[ abstract \]</a>, <a href="https://drive.google.com/file/d/1f0PxzRsw-aU0Oa_KVC10U2ReoXEVgk1w/view?usp=sharing">\[ poster \]</a>. _manuscript under review_
 
-**Formalizing syntactically conditioned morphological processes over strings**. <a href="https://drive.google.com/file/d/169LTy5lsh3SBQSpxMNaf8L57udZrCbmH/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1wBCibrZZVc-snTxrm5z9SJzRL47h3cl6/view?usp=sharing">slides</a>. _manuscript under review_
+**Formalizing syntactically conditioned morphological processes over strings**. <a href="https://drive.google.com/file/d/169LTy5lsh3SBQSpxMNaf8L57udZrCbmH/view?usp=sharing">\[ abstract \]</a>, <a href="https://drive.google.com/file/d/1wBCibrZZVc-snTxrm5z9SJzRL47h3cl6/view?usp=sharing">\[ slides \]</a>. _manuscript under review_
 
-**Modeling morphological epenthesis.** <a href="https://drive.google.com/file/d/1w5f_bgQesLDmIXQSzOwfB9t9z9GT7DsP/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1Jr-pNyWNG992Yml0kUQmkoaC8l8wzIfS/view?usp=sharing">slides</a>
+**Modeling morphological epenthesis.** <a href="https://drive.google.com/file/d/1w5f_bgQesLDmIXQSzOwfB9t9z9GT7DsP/view?usp=sharing">\[ abstract \]</a>, <a href="https://drive.google.com/file/d/1Jr-pNyWNG992Yml0kUQmkoaC8l8wzIfS/view?usp=sharing">\[ slides \]</a>
 
-**Syntactic epenthesis and the Russian N-factor.** With <a href="https://linguistics.stonybrook.edu/faculty/john.bailyn/">John F. Bailyn</a>. <a href="https://drive.google.com/file/d/1oat6KPz5Twv4JMfbvSJiHPYRi45iIQIc/view?usp=sharing">abstract</a>, <a href="https://drive.google.com/file/d/1mQmTUgvGxgfjp6VaEwqXN0Vhc2miCXvP/view?usp=sharing">handout</a>
+**Syntactic epenthesis and the Russian N-factor.** With <a href="https://linguistics.stonybrook.edu/faculty/john.bailyn/">John F. Bailyn</a>. <a href="https://drive.google.com/file/d/1oat6KPz5Twv4JMfbvSJiHPYRi45iIQIc/view?usp=sharing">\[ abstract \]</a>, <a href="https://drive.google.com/file/d/1mQmTUgvGxgfjp6VaEwqXN0Vhc2miCXvP/view?usp=sharing">\[ handout \]</a>
 
 ----
 
